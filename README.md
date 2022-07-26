@@ -1,22 +1,6 @@
-# Overview
+##Overview
+   Framework used - Laravel 9
 
-Welcome to the AussieBroadband Software Engineering Laravel Tech Test.
-
-This repository contains a Laravel 9 installation and requires php@8.1 and composer installed.
-
-Start by cloning/forking this repo, copy `.env.example` to `.env` and run `composer install` to get started.
-
-An in memory sqlite database is already configured for testing.
-
-Should you wish to spin up an environment to suit your workflow during development, you are completely free to do so, however keep in mind that solutions will be evaluated on the tests you write, no additional setup should be required for `php artisan test` to be executed.
-
-## The Tasks
-
-We are mindful of your time and the tasks below are overly simplified to accommodate various valid solutions. Your solutions will be evaluated on your use of tests as well as your implementation and understanding of Laravel conventions, you do not need to "impress" us with everthing you know or coding "clever" solutions. Work with the structure provided and feel free to get in touch if there are any gaps.
-
-If you feel you would approach any of these tasks differently given more time, please provide this as part of your submission.
-
-If you have any questions before you start any of these tasks, please email jarrod.tomholt@team.aussiebroadband.com.au.
 
 ### Task 1 - Expose a new api endpoint to list all applications
 
@@ -62,11 +46,6 @@ You are required to send a `Http::post` request to the B2B endpoint (an `NBN_B2B
 
 ***NOTE:*** B2B = business to business api
 
-## Submissions
-
-Your solutions must be submitted by emailing a zip/tarball (without the vendor dir and preserving git history) to jarrod.tomholt@team.aussiebroadband.com.au.
-
-You should not require any additional packages to complete these tasks, if you do decide to add additional packages please specify your reasoning to do so in your submission.
 
 ## License
 
