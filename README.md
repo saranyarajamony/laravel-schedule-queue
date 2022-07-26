@@ -1,4 +1,5 @@
-###Overview -   Framework used - Laravel 9
+
+### Overview - Laravel 9.x used for development
 
 
 ### Task 1 - Expose a new api endpoint to list all applications
